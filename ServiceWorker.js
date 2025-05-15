@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Color Switch-1.0.2";
 const contentToCache = [
-    "Build/fxgdf.loader.js",
-    "Build/fxgdf.framework.js",
-    "Build/fxgdf.data",
-    "Build/fxgdf.wasm",
+    "Build/sdf.loader.js",
+    "Build/sdf.framework.js",
+    "Build/sdf.data",
+    "Build/sdf.wasm",
     "TemplateData/style.css"
 
 ];
